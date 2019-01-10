@@ -1,0 +1,28 @@
+\begin{thebibliography}{1}
+
+\bibitem{di2018predictive}
+{\sc Di~Francescomarino, C., Ghidini, C., Maggi, F.~M., and Milani, F.}
+\newblock Predictive process monitoring methods: Which one suits me best?
+\newblock {\em arXiv preprint arXiv:1804.02422\/} (2018).
+
+\bibitem{rogge2015time}
+{\sc Rogge-Solti, A., Vana, L., and Mendling, J.}
+\newblock Time series petri net models-enrichment and prediction.
+\newblock CEUR Workshop Proceedings.
+
+\bibitem{senderovich2017intra}
+{\sc Senderovich, A., Di~Francescomarino, C., Ghidini, C., Jorbina, K., and
+  Maggi, F.~M.}
+\newblock Intra and inter-case features in predictive process monitoring: A
+  tale of two dimensions.
+\newblock In {\em International Conference on Business Process Management\/}
+  (2017), Springer, pp.~306--323.
+
+\bibitem{verenich2017white}
+{\sc Verenich, I., Nguyen, H., La~Rosa, M., and Dumas, M.}
+\newblock White-box prediction of process performance indicators via flow
+  analysis.
+\newblock In {\em Proceedings of the 2017 International Conference on Software
+  and System Process Pages\/} (2017), ACM, pp.~85--94.
+
+\end{thebibliography}
